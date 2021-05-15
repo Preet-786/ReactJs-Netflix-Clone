@@ -1,5 +1,10 @@
 # You can see the website here: https://netflix-clone-952c8.web.app
 
+# Commands you need to execute first : 
+1] npm i axios
+2] npm i react-youtube
+3] npm i movie-trailer
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
